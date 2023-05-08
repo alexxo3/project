@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(232, 232, 11);
+    min-width: 290px;
+    color: #6ac9dc;
+    font-family: 'Open Sans', Arial, sans-serif;
+    line-height: 1.5;
+}
+
+
+@media only screen and (max-width: 815px) {
+    
+}
